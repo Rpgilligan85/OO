@@ -1,0 +1,7 @@
+.Male, .Female {
+    width: 30px;
+}
+
+.Male img, .Female img {
+    width: 100%;
+}
