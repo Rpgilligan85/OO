@@ -1,1 +1,3 @@
-This is a leaflet example of creating dynamic marker clusters
+This is a leaflet example of creating dynamic marker clusters.
+
+Hi Nick
