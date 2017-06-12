@@ -22,7 +22,7 @@ function onDataLoaded(data){
 var allData = datagobbler.data.functions.all_layers.getAllFilteredData();
 var numberTime = datagobbler.data.functions.all_layers.getAllFilteredDataByGroup('numbertime');
 var _country = datagobbler.data.functions.all_layers.getAllFilteredDataByGroup('country');
-var _app = datagobbler.data.functions.all_layers.getAllFilteredDataByGroup('gender');
+var gender = datagobbler.data.functions.all_layers.getAllFilteredDataByGroup('gender');
 
     
 var allDates=[]; 
